@@ -1,5 +1,7 @@
 # Sarvesh Yadav — Portfolio
 
+[![Deploy portfolio to GitHub Pages](https://github.com/Sarvesh-Yadav01/Portfolio-Web/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/Sarvesh-Yadav01/Portfolio-Web/actions/workflows/deploy-pages.yml)
+
 A responsive personal portfolio showcasing my web development projects, technical skills, education, and certifications.
 
 **Live portfolio:** [sarvesh-yadav01.github.io/Portfolio-Web](https://sarvesh-yadav01.github.io/Portfolio-Web/)
